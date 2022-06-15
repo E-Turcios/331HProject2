@@ -9,6 +9,7 @@ int input(char c)
 {
   case '(':
   return 1;
+  
   case '+':
   case '-':
   return 2;
